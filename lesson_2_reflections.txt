@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git initialize all the environmen it needs. We need to make our first commit
