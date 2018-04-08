@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git initialize all the environmen it needs. We need to make our first commit
+    Git initialize all the environmen it needs. We need to make our first commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    staging area is a place to put files ready to commit. It mekes easy to group all the files that compose a logical commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    checkig their status
