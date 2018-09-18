@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
     When you are working in a team, you can use a branch per person and merge it into the master branch before upload de final code
+
+How do the diagrams help you visualize the branch structure?
+    Global view
+
+
