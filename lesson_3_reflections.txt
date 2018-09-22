@@ -6,3 +6,9 @@ Describe the differences between forks, clones, and branches. When would you use
   Forks entire copy of a github branch into your repository. I use it to have a copy of a github user repository in my github user account
   Clones copy a branch into your local. I use it to download a branch into to my local
   branches part of a repository. To know all the branches a repository have
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  Work offline
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  Using another repository sofware
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  Fix errors, new functionalities working in a team
